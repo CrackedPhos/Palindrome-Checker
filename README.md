@@ -45,14 +45,14 @@ For example:
 ---
 
 ## ⚙️ What I have Learned
-How to manipulate strings using JavaScript methods
+1. How to manipulate strings using JavaScript methods
   -.split(), .reverse(), .join() for reversing text.
   -.replace() and regex for cleaning up input.
-Using conditionals (if...else) to compare strings and display results.
-Breaking a problem into smaller logical steps.
-Debugging issues using console.log() effectively.
-Testing different edge cases like numbers, spaces, and capitalization.
-Directly modify an element's inline styles using the style property
-Improved my understanding of user input handling
+2. Using conditionals (if...else) to compare strings and display results.
+3. Breaking a problem into smaller logical steps.
+4. Debugging issues using console.log() effectively.
+5. Testing different edge cases like numbers, spaces, and capitalization.
+6. Directly modify an element's inline styles using the style property
+7. Improved my understanding of user input handling
 
 
