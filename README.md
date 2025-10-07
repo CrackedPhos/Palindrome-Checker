@@ -6,7 +6,7 @@ This project allows users to enter a word, phrase, or number to check whether it
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://Crackedphos.github.io/palindrome-checker)
+👉 [View on GitHub Pages](https://crackedphos.github.io/Palindrome-Checker/))
 
 ---
 
